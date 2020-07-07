@@ -1,0 +1,13 @@
+]0;~/Documents - MacBook Pro de user/RStudio/R_Learning/Without version control[?1034hMacBook-Pro-de-user:Without version control Galie$ [KMacBook-Pro-de-user:Without version control Galie$ cd ~/dir/name/of/path/to/file
+bash: cd: /Users/galieestela/dir/name/of/path/to/file: No such file or directory
+]0;~/Documents - MacBook Pro de user/RStudio/R_Learning/Without version controlMacBook-Pro-de-user:Without version control Galie$ git init
+Initialized empty Git repository in /Users/galieestela/Documents - MacBook Pro de user/RStudio/R_Learning/Without version control/.git/
+]0;~/Documents - MacBook Pro de user/RStudio/R_Learning/Without version controlMacBook-Pro-de-user:Without version control Galie$ git add
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+]0;~/Documents - MacBook Pro de user/RStudio/R_Learning/Without version controlMacBook-Pro-de-user:Without version control Galie$ git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+	add
+]0;~/Documents - MacBook Pro de user/RStudio/R_Learning/Without version controlMacBook-Pro-de-user:Without version control Galie$ git add .
